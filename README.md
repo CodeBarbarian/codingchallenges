@@ -1,2 +1,2 @@
 # codingchallenges
-Coding challenges, you know to keep up the spirit.
+Coding challenges, to keep up the spirit.
